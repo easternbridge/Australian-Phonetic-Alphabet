@@ -5,7 +5,7 @@ Make your contribution to the Australian Phonetic Alphabet
 ## B. Banjo
 ## C. Coral
 ## D. Dingo
-## E. 
+## E. Emu
 ## F. Furphy
 ## G. Geebung
 ## H. 
