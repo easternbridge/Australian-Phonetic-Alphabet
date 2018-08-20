@@ -3,14 +3,14 @@ Make your contribution to the Australian Phonetic Alphabet
 
 ## A. Archer
 ## B. Banjo
-## C. Coral
+## C. 
 ## D. Dingo
 ## E. Emu
 ## F. 
 ## G. Geebung
 ## H. 
 ## I. 
-## J. Jaffle
+## J. 
 ## K. Kylie
 ## L. Longreach
 ## M. Matilda
