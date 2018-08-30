@@ -3,10 +3,10 @@ Make your contribution to the Australian Phonetic Alphabet
 
 ## A. Archer
 ## B. Banjo
-## C. 
+## C. Cockatoo
 ## D. Dingo
 ## E. Emu
-## F. 
+## F. Freestyle
 ## G. Geebung
 ## H. 
 ## I. 
